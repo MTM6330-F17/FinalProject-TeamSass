@@ -1,0 +1,26 @@
+************Team SASS************
+
+Team Members:
+
+Joey Lee
+Peter Saliba
+Marco Rofail
+Athena Bouterakos
+Safia Jama
+
+
+************What each person did************
+Joey Lee: He helped organize all the team meetings, made the final presentation,
+and wrote the website's content.
+
+Peter Saliba: He made the final project proposal, assisted Joey in the
+final presentation, and coded the webpage.
+
+Marco Rofail: He helped write the content for the website, and came up with
+design ideas for the website.
+
+Athena Bouterakos: She worked alongside Safia to design the mockup pages for
+the website, as well as the website's final color scheme.
+
+Safia Jama: She worked alongside Athena to design the mockup pages for
+the website, and gave ideas for the website's design.
